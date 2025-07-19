@@ -109,5 +109,3 @@ By default, the **Location** option has *No organization* selected, and that is 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/_graphics/Slide21.PNG)
 
 21. If you have any questions or run into any issues, please feel free to email me at :envelope_with_arrow: email: **emil.cherrington [at] uah.edu**.
-
-![](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/_graphics/Slide22.PNG)
