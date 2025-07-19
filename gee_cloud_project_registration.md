@@ -6,7 +6,7 @@
 A tutorial for registering a Google Cloud project for those who are new to [GEE](https://code.earthengine.google.com/) 🌎
 
 ## Description: Why do I need this?
-**Scenario:** *You are new to GEE. You have just signed up but don't know how to create a Google Cloud project for use with GEE. Below, this tutorial walks you through the step-by-step process for doing so.* 😉
+**Scenario:** *You are new to GEE. You have just signed up, but you don't know how to create a Google Cloud project for use with GEE. Below, this tutorial walks you through the step-by-step process for doing so.* 😉
 
 ## Required software
 
