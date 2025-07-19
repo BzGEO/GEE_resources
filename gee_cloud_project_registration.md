@@ -14,6 +14,9 @@ A tutorial for registering a Google Cloud project for those who are new to [GEE]
    
 2. I also **highly recommend** that you use the [Google Chrome browser](https://www.google.com/chrome/) for the registration process and for GEE use.
 
+## Notes
+Ujaval Gandhi of [SpatialThoughts](https://spatialthoughts.com) has *also* published instructions for how to register a Google Cloud project for use with GEE: https://courses.spatialthoughts.com/gee-sign-up.html. This guide should be complementary to those instructions.
+
 ## Workflow (suggested)
 
 1. These tutorials were developed for the NASA EarthData webinar on the [Fundamentals of Hyperspectral and Thermal Earth Observations](https://www.earthdata.nasa.gov/events/fundamentals-use-hyperspectral-thermal-nasa-earth-observations), on 21-22 July 2025.
