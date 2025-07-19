@@ -11,6 +11,7 @@ A tutorial for registering a Google Cloud project for those who are new to GEE
 ## Required software
 
 1. You will need to have signed up for GEE, preferably using your personal Gmail address, as many institutions usually stop their personnel from being able to create Google Cloud projects. You can sign up for GEE at https://earthengine.google.com/signup/.
+   
 2. I also **highly recommend** that you use the [Google Chrome browser](https://www.google.com/chrome/) for the registration process and for GEE use.
 
 ## Workflow (suggested)
