@@ -15,7 +15,7 @@ A tutorial for registering a Google Cloud project for those who are new to GEE
 
 ## Workflow (suggested)
 
-1. These tutorials were developed for the NASA EarthData webinar on the Fundamentals of 
+1. These tutorials were developed for the NASA EarthData webinar on the [Fundamentals of Hyperspectral and Thermal Earth Observations](https://www.earthdata.nasa.gov/events/fundamentals-use-hyperspectral-thermal-nasa-earth-observations), on 21-22 July 2025.
 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/_graphics/Slide1.PNG)
 
