@@ -15,7 +15,7 @@ A tutorial for registering a Google Cloud project for those who are new to [GEE]
 2. I also **highly recommend** that you use the [Google Chrome browser](https://www.google.com/chrome/) for the registration process and for GEE use.
 
 ## Notes
-Ujaval Gandhi of [SpatialThoughts](https://spatialthoughts.com) has *also* published instructions for how to register a Google Cloud project for use with GEE: https://courses.spatialthoughts.com/gee-sign-up.html. This guide should be complementary to those instructions.
+Ujaval Gandhi of [SpatialThoughts](https://spatialthoughts.com) has *also* published instructions for how to register a Google Cloud project for use with GEE: https://courses.spatialthoughts.com/gee-sign-up.html. This guide should be complementary to those instructions. It should also be noted that Google also updated their Google Cloud project registration procedure in June 2025, so the following should be current to that last update.
 
 ## Workflow (suggested)
 
