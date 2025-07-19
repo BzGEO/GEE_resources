@@ -3,7 +3,7 @@
 [![Update](https://img.shields.io/github/last-commit/bzgeo/pace_oci_toolkit?label=repo%20last%20updated&style=flat-square)](https://github.com/BzGEO/GEE_resources)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bzgeo.GEE_resources)
 
-A tutorial for registering a Google Cloud project for those who are new to GEE
+A tutorial for registering a Google Cloud project for those who are new to [GEE](https://code.earthengine.google.com/)
 
 ## Description: Why do I need this?
 **Scenario:** *You are new to GEE. You have just signed up but don't know how to create a Google Cloud project for use with GEE. Below, this tutorial walks you through the step-by-step process for doing so.* 😉
