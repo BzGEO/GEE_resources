@@ -33,7 +33,11 @@ Ujaval Gandhi of [SpatialThoughts](https://spatialthoughts.com) has *also* publi
 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/_graphics/Slide4.PNG)
 
-4. Next, you will be taken to a new tab, where you will begin creating a Google Cloud project. The first step in the process is naming a project, so you will need to enter a project name in the first box under **Project name**. Since these instructions are focused on the NASA EarthData training webinar, one name you could use is *nasa-training-2025-07* but you can select any name you prefer in so long as it does not violate the naming convention Google allows. If you do select a name with characters that are not permitted, you will be informed that the project name is not compliant and you will be asked to choose a new project name. By default, the **Location** option has *No organization* selected, and that is fine. To proceed, you will need to click the blue **Create** button at the bottom left.
+4. Next, you will be taken to a new tab, where you will begin creating a Google Cloud project.
+
+The first step in the process is naming a project, so you will need to enter a project name in the first box under **Project name**. Since these instructions are focused on the NASA EarthData training webinar, one name you could use is **nasa-training-2025-07** but you can select any name you prefer in so long as it does not violate the naming convention Google allows. If you do select a name with characters that are not permitted, you will be informed that the project name is not compliant and you will be asked to choose a new project name.
+
+By default, the **Location** option has *No organization* selected, and that is fine. To proceed, you will need to click the blue **Create** button at the bottom left.
 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/_graphics/Slide5.PNG)
 
