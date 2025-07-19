@@ -25,7 +25,7 @@ Ujaval Gandhi of [SpatialThoughts](https://spatialthoughts.com) has *also* publi
 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/_graphics/Slide2.PNG)
 
-2. The first step toward creating a Google Cloud Project for GEE is to visit the GEE [Code Editor]: https://code.earthengine.google.com. If you are new to GEE or haven't yet registered a project, you will find a screen similar to the one below, where you will be asked to either (a) register a new project [which the following instructions will walk you through], or (b) to authorize an existing cloud project.
+2. The first step toward creating a Google Cloud Project for GEE is to visit the GEE Code Editor: https://code.earthengine.google.com. If you are new to GEE or haven't yet registered a project, you will find a screen similar to the one below, where you will be asked to either (a) register a new project [which the following instructions will walk you through], or (b) to authorize an existing cloud project.
 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/_graphics/Slide3.PNG)
 
