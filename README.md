@@ -9,7 +9,9 @@ Miscellaneous resources for GEE [for the [Code Editor](https://code.earthengine.
 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/nasa_earthdata_webinar_2025-07b.png)
 
-## General workflow (also see the Tutorials ⬇️)
+## General workflow
+
+(*Also see the Tutorials ⬇️.*)
 
 1. Register for Google Earth Engine (GEE) if you don't already have an account: https://earthengine.google.com/signup/.
 
