@@ -19,6 +19,10 @@ Miscellaneous resources for GEE [for the [Code Editor](https://code.earthengine.
 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/gee_cloud_project_registration.png)
 
+3. Video walk-through of the GEE cloud project registration, in English: https://bit.ly/project_reg_gee. 🎥
+
+4. Video walk-through of the GEE cloud project registration, in Spanish: https://bit.ly/gee_registro_proyectos. 🎥
+
 ## Contact information
 
 If you have any questions, feel free to contact Emil Cherrington by :envelope_with_arrow: email: **emil.cherrington [at] uah.edu**.
