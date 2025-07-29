@@ -11,7 +11,7 @@ Miscellaneous resources for GEE [for the [Code Editor](https://code.earthengine.
 
 ## General workflow
 
-(*Also see the Tutorials ⬇️.*)
+(*Also see the [**Tutorials**](https://github.com/BzGEO/GEE_resources#tutorials) ⬇️.*)
 
 1. Register for Google Earth Engine (GEE) if you don't already have an account: https://earthengine.google.com/signup/.
 
