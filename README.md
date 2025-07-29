@@ -13,7 +13,7 @@ Miscellaneous resources for GEE [for the [Code Editor](https://code.earthengine.
 
 1. Register for Google Earth Engine (GEE) if you don't already have an account: https://earthengine.google.com/signup/.
 
-2. Set up a Google Cloud project in the GEE Code Editor: https://code.earthengine.google.com. (You will be prompted to register an existing cloud project or to set up a new one.)
+2. Set up a Google Cloud project in the GEE Code Editor: https://code.earthengine.google.com. (*You will be prompted to register an existing cloud project or to set up a new one.*)
 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/gee_cloud_project_registration_screen.png)
 
