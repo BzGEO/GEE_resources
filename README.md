@@ -15,13 +15,13 @@ Miscellaneous resources for GEE [for the [Code Editor](https://code.earthengine.
 
 2. Set up a Google Cloud project in the GEE Code Editor: https://code.earthengine.google.com. (You will be prompted to register an existing cloud project or to set up a new one.)
 
-
+![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/gee_cloud_project_registration_screen.png)
 
 *Optional*
 
 3. Add a sample repository, like the PACE OCI repository (https://bit.ly/gee_repo_pace_oci).
 
-
+![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/gee_add_pace_oci_repo.png)
 
 ## Tutorials
 
