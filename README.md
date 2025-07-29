@@ -9,6 +9,20 @@ Miscellaneous resources for GEE [for the [Code Editor](https://code.earthengine.
 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/nasa_earthdata_webinar_2025-07b.png)
 
+## General workflow (also see the Tutorials ⬇️)
+
+1. Register for Google Earth Engine (GEE) if you don't already have an account: https://earthengine.google.com/signup/.
+
+2. Set up a Google Cloud project in the GEE Code Editor: https://code.earthengine.google.com. (You will be prompted to register an existing cloud project or to set up a new one.)
+
+
+
+*Optional*
+
+3. Add a sample repository, like the PACE OCI repository (https://bit.ly/gee_repo_pace_oci).
+
+
+
 ## Tutorials
 
 1. GEE overview (short) [presentation](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/gee_1_overview_short_2025-07.pdf)
