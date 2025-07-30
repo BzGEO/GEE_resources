@@ -21,7 +21,7 @@ Miscellaneous resources for GEE [for the [Code Editor](https://code.earthengine.
 
 *Optional*
 
-3. Add a sample repository, like the PACE OCI repository (https://bit.ly/gee_repo_pace_oci).
+3. Add a sample GEE code repository, like the PACE OCI 👨‍💻 repository (https://bit.ly/gee_repo_pace_oci).
 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/gee_add_pace_oci_repo.png)
 
