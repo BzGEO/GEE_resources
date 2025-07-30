@@ -5,7 +5,7 @@
 [![Update](https://img.shields.io/github/last-commit/bzgeo/GEE_resources?label=repo%20last%20updated&style=flat-square)](https://github.com/BzGEO/GEE_resources)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bzgeo.GEE_resources)
 
-Miscellaneous resources for GEE [for the [Code Editor](https://code.earthengine.google.com)], initially developed for the July 2025 NASA EarthData [webinar](https://www.earthdata.nasa.gov/events/fundamentals-use-hyperspectral-thermal-nasa-earth-observations) on hyperspectral and thermal Earth observation 🛰️🌎 data.
+Miscellaneous resources for GEE [for the [Code Editor](https://code.earthengine.google.com)], initially developed for the July 2025 NASA EarthData [webinar](https://www.earthdata.nasa.gov/events/fundamentals-use-hyperspectral-thermal-nasa-earth-observations) on hyperspectral and thermal Earth observation 🛰️🌎 data. It has been updated somewhat for the upcoming August 2025 AmeriGEO Week training webinar on PACE.
 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/nasa_earthdata_webinar_2025-07b.png)
 
@@ -21,7 +21,7 @@ Miscellaneous resources for GEE [for the [Code Editor](https://code.earthengine.
 
 *Optional*
 
-3. Add a sample repository, like the PACE OCI repository (https://bit.ly/gee_repo_pace_oci).
+3. Add a sample GEE code repository, like the PACE OCI 👨‍💻 repository (https://bit.ly/gee_repo_pace_oci).
 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/gee_add_pace_oci_repo.png)
 
@@ -31,7 +31,7 @@ Miscellaneous resources for GEE [for the [Code Editor](https://code.earthengine.
 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/gee_overview.png)
 
-2. GEE cloud project registration [presentation](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/gee_2_accounts_cloud_projects_2025-07.pdf)
+2. GEE cloud project registration [page](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/gee_cloud_project_registration.md) + [presentation](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/gee_2_accounts_cloud_projects_2025-07.pdf)
 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/gee_cloud_project_registration.png)
 
