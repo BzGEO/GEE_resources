@@ -31,7 +31,7 @@ Miscellaneous resources for GEE [for the [Code Editor](https://code.earthengine.
 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/gee_overview.png)
 
-2. GEE cloud project registration [presentation](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/gee_2_accounts_cloud_projects_2025-07.pdf)
+2. GEE cloud project registration [page](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/gee_cloud_project_registration.md) + [presentation](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/gee_2_accounts_cloud_projects_2025-07.pdf)
 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/gee_cloud_project_registration.png)
 
