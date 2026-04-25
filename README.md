@@ -5,7 +5,7 @@
 [![Update](https://img.shields.io/github/last-commit/bzgeo/GEE_resources?label=repo%20last%20updated&style=flat-square)](https://github.com/BzGEO/GEE_resources)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bzgeo.GEE_resources)
 
-Miscellaneous resources for GEE [for the [Code Editor](https://code.earthengine.google.com)], initially developed for the July 2025 NASA EarthData [webinar](https://www.earthdata.nasa.gov/events/fundamentals-use-hyperspectral-thermal-nasa-earth-observations) on hyperspectral and thermal Earth observation 🛰️🌎 data. It has been updated somewhat for the upcoming August 2025 AmeriGEO Week training webinar on PACE.
+Miscellaneous resources for GEE [for the [Code Editor](https://code.earthengine.google.com)], initially developed for the July 2025 NASA EarthData [webinar](https://www.earthdata.nasa.gov/events/fundamentals-use-hyperspectral-thermal-nasa-earth-observations) on hyperspectral and thermal Earth observation 🛰️🌎 data. It has been for the August 2025 [AmeriGEO Week training webinar on PACE](https://youtu.be/nOXNXBQR3cw?t=8142).
 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/nasa_earthdata_webinar_2025-07b.png)
 
