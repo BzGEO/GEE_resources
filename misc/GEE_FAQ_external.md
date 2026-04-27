@@ -15,8 +15,10 @@ This document is intended to provide the general public - and particular novice 
 * Can someone explain the various changes to GEE's overall terms of service?
 * 
 
-## GEE quota limits (as of 27 April 2026)
+## GEE non-commercial quota limits (*as of 27 April 2026*)
 [*source*](https://developers.google.com/earth-engine/guides/noncommercial_tiers): Google
+
+**Table x.** GEE non-commercial tier limits
 
 | Tier | EECU-hour limits | EECU-second limits | Approx. value (US) |
 | --- | --- | --- | --- |
