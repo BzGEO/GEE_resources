@@ -14,6 +14,9 @@ This document is intended to provide the general public - and particular novice 
 * Is it true that Google is now charging for GEE use?
 * Can someone explain the various changes to GEE's overall terms of service?
 * Can you lay out the various recent milestones regarding GEE's terms of service changes?
+    * 28.06.2022: Google announced non-commercial and commercial tiers via the [Introducing Earth Engine for governments and businesses](https://blog.google/products-and-platforms/products/earth/introducing-earth-engine-for-governments-and-businesses/) article.
+    * 24.07.2024: Google announced that entry to GEE would be facilitated via Google Cloud projects; this was summarized in the following Google Developers page entitled ["Transition to Cloud projects for your workflows"](https://developers.google.com/earth-engine/guides/transition_to_cloud_projects).
+    * 20.01.2026: Google announced restrictions on their non-commercial tiers, summarized in the following [Earth Engine Noncommercial Tiers](https://developers.google.com/earth-engine/guides/noncommercial_tiers) page.
 
 ## GEE non-commercial quota limits (*as of 27 April 2026*)
 [*source*](https://developers.google.com/earth-engine/guides/noncommercial_tiers): Google
