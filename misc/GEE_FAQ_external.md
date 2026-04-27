@@ -27,6 +27,7 @@ This document is intended to provide the general public - and particular novice 
   * Previously, GEE users had access to unlimited computational resources via GEE. With this change, Google effectively started *significantly* throttling the quantity of compute that GEE users can access.
   * That throttling became effective on 27 April 2026.
   * Three tiers of use were created: (i) Community (with access to up to only 150 EECU-hours / month), (ii) Contributor (with access to up to only 1,000 EECU-hours / month, but requiring a Google billing account), and (iii) Partner (with access to up to 100,000 EECU-hours / month).
+* **TL;DR**: In 2022, Google changed their Terms of Service for GEE, defining commercial / non-commercial / operational uses, and outlining that commercial and operational uses should be paid for.
 
 ## GEE non-commercial quota limits (*as of 27 April 2026*)
 [*source*](https://developers.google.com/earth-engine/guides/noncommercial_tiers): Google
