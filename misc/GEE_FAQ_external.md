@@ -53,6 +53,9 @@ This document is intended to provide the general public - and particular novice 
 
 <img width="399.3" height="216.48" alt="image" src="https://github.com/user-attachments/assets/e0b035db-07e5-46c1-954d-094a755c75ab" />
 
+  * As of the recent restrictions on EECU usage that began on 27 April 2026, there are no charges to **non-commercial users**. For non-commercial users opting to the *Contributor* usage tier, a Google billing account [with a credit card on file] is required, but for non-commercial users opting to the [default] *Community* usage tier, a billing account / credit card on file is not required.
+  * Since June 2022, commercial and operational GEE use have required payment.
+
 * **Can someone explain the various changes to GEE's overall terms of service?**
   * Please refer to the section below on the milestones regarding GEE.
 
