@@ -5,7 +5,7 @@
 *The perspectives expressed here **do not** represent those of Google or my employer.*
 
 ## Objective
-This document is intended to provide the general public - and particular novice users of Google Earth Engine - with general information about GEE.
+This document is intended to provide the general public - and particular novice users of Google Earth Engine - with general information about GEE, as well as its potential relationships with desktop Geographic Information Systems (GIS) software programs like ArcGIS or QGIS.
 
 ## Questions
 
