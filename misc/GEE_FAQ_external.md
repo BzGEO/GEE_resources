@@ -9,11 +9,27 @@ This document is intended to provide the general public - and particular novice 
 
 ## Questions
 
-* How does GEE compare to a desktop GIS software program like *ArcGIS Pro* or *QGIS*?
-* When would someone use GEE vs. a desktop GIS software program (e.g., ArcGIS Pro, QGIS), and vice versa?
-* Is it true that Google is now charging for GEE use?
-* Can someone explain the various changes to GEE's overall terms of service?
-* Can you lay out the various recent milestones regarding GEE's terms of service changes?
+* **How does GEE compare to a desktop GIS software program like *ArcGIS Pro* or *QGIS*?**
+  * x
+
+* **When would someone use GEE vs. a desktop GIS software program (e.g., ArcGIS Pro, QGIS), and vice versa?**
+  * One may consider the difference between a cloud-based platform like GEE and a desktop program like ArcGIS or QGIS to be like the difference between a fork and a spoon. That is, they can be seen as serving different functions. Geospatial operations have long been described in terms of (i) vector-based operations, and (ii) raster-based operations. GEE excels in raster-based operations, and can be considered as a cloud-based version of ArcGIS' *Raster Calculator* feature. On the other hand, ArcGIS and QGIS are generally seen as much more adept than GEE in handling vector-based operations, with GEE generally tending to throw errors for complex geometrical features which possess many vertices. The general consensus is also that for the cartographic side of geospatial operations (i.e., map-making), ArcGIS and QGIS are better suited to generating attractive and customizable map layouts than GEE, for which generating apps or screenshots are the main options for map-making.
+
+* **How do ArcGIS and QGIS compare?**
+  * The main differenciator between ArcGIS and QGIS is cost. ArcGIS is a [paid] commercial off the shelf software, and QGIS is an open source **freeware** software package.
+  * Another significant difference between ArcGIS and QGIS is that ArcGIS cannot be run in the macOS operating system, largely limiting ArcGIS' use to Windows desktop platforms. Hence, it would seem that QGIS would be the software of preference for Apple users. That said, according to the QGIS [monitoring dashboard](https://feed.qgis.org/metabase/public/dashboard/df81071d-4c75-45b8-a698-97b8649d7228), of over 761 million QGIS instances opened over the previous 30 days (as of the morning of 30.04.2026), only 2.95% have been on macOS, compared to 64.7% on Windows, and 0.29% on Linux (with an addition 30.7% on unreported operating systems).
+
+* **How does GEE compare to ArcGIS or QGIS in terms of its user base?**
+  * **GEE:** At Google's *Geo For Good* 2025 conferences (in August, September 2025), it was indicated that there are **over 100,000 monthly active users** of the platform.
+  * **ArcGIS:** According to the Esri [Wikipedia page](https://en.wikipedia.org/wiki/Esri), ArcGIS has **over a million active users** (*date unknown*). Esri's overview [page](https://www.esri.com/en-us/about/about-esri/overview) indicates that its products (presumably ArcGIS) are used by 33,000 businesses, 1,200 national government agencies, 30,000 cities and local governments, and 12,200 nonprofit organizations.
+  * **QGIS:** According to a Dec. 2023 *Medium* [blog post](https://gispofinland.medium.com/how-big-is-the-qgis-community-now-b20978ea7eac) by GISPO Finland Ltd, in May 2023, QGIS was opened 13,629,896 times. GISPO developed a [dashboard](https://feed.qgis.org/metabase/public/dashboard/df81071d-4c75-45b8-a698-97b8649d7228) for tracking QGIS use, which indicates that QGIS was **opened 21,903,891 times in the last 30 days** (as of the morning of 30.04.2026).
+    * The dashboard estimates that there are only 26 QGIS users in Belize, compared to 1.08 million users in Guatemala, 284 users in Panama, 40.55 million users in Brazil, 19.4 million users in the USA, 45.3 million users in France, and 35.2 million users in India.
+
+* **Is it true that Google is *now* charging for GEE use?**
+  * x
+
+* **Can someone explain the various changes to GEE's overall terms of service?**
+  * x
 
 ## GEE Terms of Service milestones
 * **28 June 2022**: Google announced non-commercial and commercial tiers via the [Introducing Earth Engine for governments and businesses](https://blog.google/products-and-platforms/products/earth/introducing-earth-engine-for-governments-and-businesses/) article.
