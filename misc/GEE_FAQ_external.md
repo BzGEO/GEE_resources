@@ -7,6 +7,8 @@
 ## Objective
 This document is intended to provide the general public - and particular novice users of Google Earth Engine - with general information about GEE, as well as its potential relationships with desktop Geographic Information Systems (GIS) software programs like ArcGIS or QGIS.
 
+**Scenario:** You are a GIS user trying to decide how and when to choose between GEE and ArcGIS or QGIS.
+
 ## Questions
 
 * **How does GEE compare to desktop GIS software programs like *ArcGIS Pro* or *QGIS*?**
