@@ -10,7 +10,7 @@ This document is intended to provide the general public - and particular novice 
 ## Questions
 
 * **How does GEE compare to desktop GIS software programs like *ArcGIS Pro* or *QGIS*?**
-  * **Overall:** One may consider the difference between a cloud-based platform like GEE and a desktop program like ArcGIS or QGIS to be like the difference between a fork and a spoon. That is, they can be seen as serving different functions. Geospatial operations have long been described in terms of (i) vector-based operations, and (ii) raster-based operations.
+  * **Overall:** One may consider the difference between a **cloud-based** platform like GEE and a **desktop** program like ArcGIS or QGIS to be like the difference between a fork and a spoon. That is, they can be seen as serving different functions. Geospatial operations have long been described in terms of (i) vector-based operations, and (ii) raster-based operations.
   * **Raster analysis:** GEE excels in raster-based operations, and can be considered as a cloud-based version of ArcGIS' *Raster Calculator* feature.
   * **Vector analysis:** On the other hand, ArcGIS and QGIS are generally seen as much more adept than GEE in handling vector-based operations, with GEE generally tending to throw errors for complex geometrical features which possess many vertices.
   * **Cartography:** The general consensus is also that for the cartographic side of geospatial operations (i.e., map-making), ArcGIS and QGIS are better suited to generating attractive and customizable map layouts than GEE, for which generating apps or screenshots are the main options for map-making.
