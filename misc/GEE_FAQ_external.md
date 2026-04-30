@@ -16,10 +16,15 @@ This document is intended to provide the general public - and particular novice 
   * **Cartography:** The general consensus is also that for the cartographic side of geospatial operations (i.e., map-making), ArcGIS and QGIS are better suited to generating attractive and customizable map layouts than GEE, for which generating apps or screenshots are the main options for map-making.
 
 * **For my general information, how do ArcGIS and QGIS compare?**
-  * **Cost:** The main differenciator between ArcGIS and QGIS is cost. ArcGIS is a [paid] commercial off the shelf software, and QGIS is an open source **freeware** software package. If you are so inclined, you can download and install QGIS *right now* from: https://qgis.org/download/. Procuring an ArcGIS license can be a little more challenging.
+  * **Cost:** The main differenciator between ArcGIS and QGIS is cost. ArcGIS is a [paid] commercial off the shelf software, and QGIS is an open source **freeware** software package.
   * **OS compatibility:** Another significant difference between ArcGIS and QGIS is that ArcGIS cannot be run in the macOS operating system, largely limiting ArcGIS' use to Windows desktop platforms. Hence, it would seem that QGIS would be the software of preference for Apple users. That said, according to the QGIS [monitoring dashboard](https://feed.qgis.org/metabase/public/dashboard/df81071d-4c75-45b8-a698-97b8649d7228), of over 761 million QGIS instances opened over the previous 30 days (*as of the morning of 30.04.2026*), only 2.95% have been on macOS, compared to 64.7% on Windows, and 0.29% on Linux (with an addition 30.7% on unreported operating systems).
 
 <img width="290" height="243" alt="image" src="https://github.com/user-attachments/assets/8f8fec0b-a929-412f-9e29-6316599a1176" />
+
+* **How can I get access *right now* to GEE, ArcGIS, or QGIS?**
+  * **GEE:** Since GEE is a Web-based platform, one registers for access via https://earthengine.google.com/signup/, and one can thereafter access the GEE Code Editor via https://code.earthengine.google.com. Since late 2024, Google has also required that users access GEE via Google Cloud projects. Instructions on how to do so can be found at: https://github.com/BzGEO/GEE_resources.
+  * **ArcGIS:** Procuring an ArcGIS Pro license can be a little challenging, especially since access is usually through organizations registered with Esri. More information can be found here: https://pro.arcgis.com/en/pro-app/latest/get-started/download-arcgis-pro.htm. In addition to institutional level ArcGIS Pro access, Esri also offers an **ArcGIS for Personal Use** option, via: https://www.esri.com/en-us/arcgis/products/arcgis-for-personal-use/buy. *ArcGIS for Personal Use* is sold as a subscription-based service, which in the USA costs US $100 / year.
+  * **QGIS:** You can download QGIS at no cost from: https://qgis.org/download/.
 
 * **When would someone use GEE vs. a desktop GIS software program (e.g., ArcGIS Pro, QGIS), and vice versa?**
   * **Scenario:** You want to ***generate a nice map*** and customize the layout ➡️ Use ArcGIS or QGIS
