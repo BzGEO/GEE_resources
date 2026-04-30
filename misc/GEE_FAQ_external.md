@@ -23,6 +23,7 @@ This document is intended to provide the general public - and particular novice 
 
 * **When would someone use GEE vs. a desktop GIS software program (e.g., ArcGIS Pro, QGIS), and vice versa?**
   * **Scenario:** You want to ***generate a nice map*** and customize the layout ➡️ Use ArcGIS or QGIS
+  * **Scenario:** You need to do ***intensive vector-based analyses*** on shapefiles (e.g. clipping, erasing, merging, unions, etc.) ➡️ Use ArcGIS or QGIS
   * **Scenario:** You want to do a ***land cover classification*** of Landsat or Sentinel-2 imagery for a fairly small area (one or a few tiles) for which you (i) don't mind downloading data and (ii) don't mind how long it might take for the classification to run on your desktop or laptop computer ➡️ Use ArcGIS or QGIS
   * **Scenario:** You want to do a ***land cover classification*** of Landsat or Sentinel-2 imagery for a large area (many tiles), and for which you (i) don't want to or have the time to download data and (ii) you don't want to wait hours to do image preprocessing and for the classification to run ➡️ Use GEE
   * **Scenario:** You want to do a ***land cover classification*** of Landsat or Sentinel-2 imagery, iteratively, so you need to run the classification dozens of times to see what works ➡️ Use GEE
