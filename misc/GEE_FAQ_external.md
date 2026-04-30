@@ -49,12 +49,11 @@ This document is intended to provide the general public - and particular novice 
 
 * **Is it true that Google is *now* charging for GEE use?**
   * GEE launched in Dec. 2010 at the UNFCCC Conference of the Parties in Cancun, Mexico. It was not until June 2022, however, that Google announced via a [Google Blog post](https://blog.google/products-and-platforms/products/earth/introducing-earth-engine-for-governments-and-businesses/) [*Terms of Service*](https://earthengine.google.com/noncommercial/) which established various categories of use, "*So starting today, we’re making Google Earth Engine available to businesses and governments worldwide as an enterprise-grade service through Google Cloud.*"
-  * Those categories can largely be distinguished between commercial and non-commercial uses. For details on each category (shown in the screenshot below), see: https://earthengine.google.com/noncommercial/
-
-<img width="399.3" height="216.48" alt="image" src="https://github.com/user-attachments/assets/e0b035db-07e5-46c1-954d-094a755c75ab" />
-
+  * Those categories can largely be distinguished between commercial and non-commercial uses. For details on each category (shown in the screenshot below), see: https://earthengine.google.com/noncommercial/.
   * As of the recent restrictions on EECU usage that began on 27 April 2026, there are no charges to **non-commercial users**. For non-commercial users opting to the *Contributor* usage tier, a Google billing account [with a credit card on file] is required, but for non-commercial users opting to the [default] *Community* usage tier, a billing account / credit card on file is not required.
   * Since June 2022, commercial and operational GEE use have required payment.
+
+<img width="399.3" height="216.48" alt="image" src="https://github.com/user-attachments/assets/e0b035db-07e5-46c1-954d-094a755c75ab" />
 
 * **Can someone explain the various changes to GEE's overall terms of service?**
   * Please refer to the section below on the milestones regarding GEE.
@@ -76,10 +75,10 @@ This document is intended to provide the general public - and particular novice 
 ## GEE non-commercial quota limits (*as of 27 April 2026*)
 [*source*](https://developers.google.com/earth-engine/guides/noncommercial_tiers): Google
 
-**Table 1.** GEE non-commercial EECU tier limits
+**Table 1.** GEE non-commercial EECU tier limits (*monthly*)
 
-| Tier | EECU-hour limits | EECU-second limits | Approx. value (US) |
-| --- | --- | --- | --- |
-| 1. Community | 150 | 540,000  | $60 |
-| 2. Contributor | 1,000 | 3,600,000 | $400 |
-| 3. Partner | 100,000 | 360,000,000 | $40,000 |
+| No. | Tier | EECU-hour limits | EECU-second limits | Approx. value (US) |
+| --- | --- | --- | --- | --- |
+| 1 | **Community** | 150 | 540,000  | $60 |
+| 2 | **Contributor** | 1,000 | 3,600,000 | $400 |
+| 3 | **Partner** | 100,000 | 360,000,000 | $40,000 |
