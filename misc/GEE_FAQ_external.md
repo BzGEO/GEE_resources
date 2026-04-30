@@ -19,13 +19,22 @@ This document is intended to provide the general public - and particular novice 
   * The main differenciator between ArcGIS and QGIS is cost. ArcGIS is a [paid] commercial off the shelf software, and QGIS is an open source **freeware** software package.
   * Another significant difference between ArcGIS and QGIS is that ArcGIS cannot be run in the macOS operating system, largely limiting ArcGIS' use to Windows desktop platforms. Hence, it would seem that QGIS would be the software of preference for Apple users. That said, according to the QGIS [monitoring dashboard](https://feed.qgis.org/metabase/public/dashboard/df81071d-4c75-45b8-a698-97b8649d7228), of over 761 million QGIS instances opened over the previous 30 days (as of the morning of 30.04.2026), only 2.95% have been on macOS, compared to 64.7% on Windows, and 0.29% on Linux (with an addition 30.7% on unreported operating systems).
 
+<img width="290" height="243" alt="image" src="https://github.com/user-attachments/assets/8f8fec0b-a929-412f-9e29-6316599a1176" />
+
 * **How does GEE compare to ArcGIS or QGIS in terms of its user base?**
   * **GEE:** At Google's *Geo For Good* 2025 conferences (in August, September 2025), it was indicated that there are **over 100,000 monthly active users** of the platform.
   * **ArcGIS:** According to the Esri [Wikipedia page](https://en.wikipedia.org/wiki/Esri), ArcGIS has **over a million active users** (*date unknown*). Esri's overview [page](https://www.esri.com/en-us/about/about-esri/overview) indicates that its products (presumably ArcGIS) are used by 33,000 businesses, 1,200 national government agencies, 30,000 cities and local governments, and 12,200 nonprofit organizations.
   * **QGIS:** According to a Dec. 2023 *Medium* [blog post](https://gispofinland.medium.com/how-big-is-the-qgis-community-now-b20978ea7eac) by GISPO Finland Ltd, in May 2023, QGIS was opened 13,629,896 times. GISPO developed a [dashboard](https://feed.qgis.org/metabase/public/dashboard/df81071d-4c75-45b8-a698-97b8649d7228) for tracking QGIS use, which indicates that QGIS was **opened 21,903,891 times in the last 30 days** (as of the morning of 30.04.2026).
-    * The dashboard estimates that there are only 26 QGIS users in Belize, compared to 1.08 million users in Guatemala, 284 users in Panama, 40.55 million users in Brazil, 19.4 million users in the USA, 45.3 million users in France, and 35.2 million users in India.
+    * The dashboard estimates that there are only 26 QGIS users in Belize, compared to 1.08 million users in Guatemala, 284 users in Panama, 40.55 million users in Brazil, 19.4 million users in the USA, 45.3 million users in France, and 35.2 million users in India. In fact, the dashboard indicates that on 29.04.2026, the major uses of QGIS were in the following countries (in descending order): Brazil, Germany, France, India, Spain, Italy, Indonesia, the USA, Poland, and Mexico.
+
+<img width="776" height="464" alt="image" src="https://github.com/user-attachments/assets/673aebac-102f-46a7-a24c-2b8601b6a4f9" />
 
 * **Is it true that Google is *now* charging for GEE use?**
+  * GEE launched in Dec. 2010 at the UNFCCC Conference of the Parties in Cancun, Mexico. It was not until June 2022, however, that Google announced via a [Google Blog post](https://blog.google/products-and-platforms/products/earth/introducing-earth-engine-for-governments-and-businesses/) [*Terms of Service*](https://earthengine.google.com/noncommercial/) which established various categories of use, "*So starting today, we’re making Google Earth Engine available to businesses and governments worldwide as an enterprise-grade service through Google Cloud.*"
+  * Those categories can largely be distinguished between commercial and non-commercial uses. For details on each category (shown in the screenshot below), see: https://earthengine.google.com/noncommercial/
+
+<img width="399.3" height="216.48" alt="image" src="https://github.com/user-attachments/assets/e0b035db-07e5-46c1-954d-094a755c75ab" />
+
   * x
 
 * **Can someone explain the various changes to GEE's overall terms of service?**
