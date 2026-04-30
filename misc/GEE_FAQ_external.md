@@ -27,7 +27,7 @@ This document is intended to provide the general public - and particular novice 
   * **QGIS:** You can download QGIS at no cost from: https://qgis.org/download/.
 
 * **When would someone use GEE vs. a desktop GIS software program (e.g., ArcGIS Pro, QGIS), and vice versa?**
-  * **Scenario:** You need to do ***intensive vector-based analyses*** on shapefiles (e.g. clipping, erasing, merging, unions, etc.) ➡️ Use ArcGIS or QGIS
+  * **Scenario:** You need to do **intensive vector-based analyses** on shapefiles (e.g. clipping, erasing, merging, unions, etc.) ➡️ Use ArcGIS or QGIS
   * **Scenario:** You want to do **basic analysis of satellite data** and you want to have the peace of mind of having the data stored on your computer ➡️ Use ArcGIS or QGIS
   * **Scenario:** You need to **compare vegetation indices across multiple satellite platforms** (e.g., ASTER, GOES, Landsat, MODIS, Sentinel-2, Sentinel-3, VIIRS) ➡️ Use GEE
   * **Scenario:** You want to do a ***land cover classification*** of Landsat or Sentinel-2 imagery for a fairly small area (one or a few tiles) for which you (i) don't mind downloading data and (ii) don't mind how long it might take for the classification to run on your desktop or laptop computer ➡️ Use ArcGIS or QGIS
@@ -37,7 +37,7 @@ This document is intended to provide the general public - and particular novice 
   * **Scenario:** You need to do a ***time-series analysis*** of changes in NDVI (e.g., using Landsat, Sentinel-2, MODIS, VIIRS), over a large period of time, and you don't have the time to download large quantities of data ➡️ Use GEE
   * **Scenario:** You need to do **zonal statistical analysis** on multiple satellite images (e.g., Landsat, Sentinel-1, Sentinel-2, Sentinel-3, MODIS, VIIRS), and you don't want to download the data ➡️ Use GEE
   * **Scenario:** You need to do **zonal statistical analysis** on a very large (e.g., continental) scale ➡️ Use GEE
-  * **Scenario:** You want to ***generate a nice map*** and customize the layout ➡️ Use ArcGIS or QGIS
+  * **Scenario:** You want to **generate a nice map** and customize the layout ➡️ Use ArcGIS or QGIS
 
 * **How does GEE compare to ArcGIS and QGIS in terms of their respective user bases?**
   * **GEE:** At Google's *Geo For Good* 2025 conferences (in [August](https://earthoutreachonair.withgoogle.com/events/geoforgood25-nyc), [September](https://earthoutreachonair.withgoogle.com/events/geoforgood25-singapore) 2025), it was indicated that there are **over 100,000 monthly active users** of the platform.
