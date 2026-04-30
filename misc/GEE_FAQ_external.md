@@ -1,5 +1,5 @@
 # Frequently Asked Questions regarding Google Earth Engine (GEE)
-*last updated: 27.04.2026*
+*last updated: 30.04.2026*
 
 ## Disclaimer
 *The perspectives expressed here **do not** represent those of Google or my employer.*
