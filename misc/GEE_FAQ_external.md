@@ -2,21 +2,21 @@
 *last updated: 01.05.2026*
 
 ## Document layout
-1. [Disclaimer]()
-2. [Objectives]()
-3. [Questions]()
-4. [GEE terms of service milestones]()
+1. [Disclaimer](https://github.com/BzGEO/GEE_resources/blob/main/misc/GEE_FAQ_external.md#disclaimer)
+2. [Objectives](https://github.com/BzGEO/GEE_resources/blob/main/misc/GEE_FAQ_external.md#objectives)
+3. [Questions](https://github.com/BzGEO/GEE_resources/blob/main/misc/GEE_FAQ_external.md#questions)
+4. [GEE terms of service milestones](https://github.com/BzGEO/GEE_resources/blob/main/misc/GEE_FAQ_external.md#gee-terms-of-service-milestones)
 5. [GEE non-commercial quota limits]()
 
-## Disclaimer
+## 1. Disclaimer
 *The perspectives expressed here **do not** represent those of Google or my employer.*
 
-## Objectives
+## 2. Objectives
 This document is intended to provide the general public - and particular novice users of Google Earth Engine - with general information about GEE, as well as its potential relationships with desktop Geographic Information Systems (GIS) software programs like ArcGIS or QGIS.
 
 **Scenario:** You are a GIS user trying to decide how and when to choose between GEE and ArcGIS or QGIS.
 
-## Questions
+## 3. Questions
 
 * **How does GEE compare to desktop GIS software programs like *ArcGIS Pro* or *QGIS*?**
   * **Overall:** One may consider the difference between a **cloud-based** platform like GEE and a **desktop** program like ArcGIS or QGIS to be like the difference between a fork and a spoon. That is, they can be seen as serving different functions. Geospatial operations have long been described in terms of (i) vector-based operations, and (ii) raster-based operations.
@@ -67,7 +67,7 @@ This document is intended to provide the general public - and particular novice 
 * **Can someone explain the various changes to GEE's overall terms of service?**
   * Please refer to the section below on the milestones regarding GEE.
 
-## GEE terms of service milestones
+## 4. GEE terms of service milestones
 * **28 June 2022**: Google announced non-commercial and commercial tiers via the [Introducing Earth Engine for governments and businesses](https://blog.google/products-and-platforms/products/earth/introducing-earth-engine-for-governments-and-businesses/) article.
   * With this change, Google also introduced Earth Engine compute use (EECU) estimates visible for batch processing. The initial announcement also provided [pricing information](https://cloud.google.com/earth-engine/pricing) for EECUs (initially US $1.33 / EECU-hour per month for online usage, and $0.40 / EECU-hour per month for batch processing, *later* revised to only $0.40 / EECU-hour for the first 10,000 hours, and $0.28 / EECU-hour for 10,000 hours to 500,000 hours, and $0.16 / EECU-hour for usage exceeding 500,000 hours in a month).
   * Through this update to GEE's terms of service, GEE opened the possibility for [businesses and governments](https://blog.google/products-and-platforms/products/earth/introducing-earth-engine-for-governments-and-businesses/) to begin paying for their GEE use, while also affirming free use of GEE for non-commercial purposes. Business use of GEE was defined as "commercial," while most government use of GEE was characterized as "operational."
@@ -81,7 +81,7 @@ This document is intended to provide the general public - and particular novice 
   * Three tiers of use were created: (i) Community (with access to up to only 150 EECU-hours / month), (ii) Contributor (with access to up to only 1,000 EECU-hours / month, but requiring a Google billing account), and (iii) Partner (with access to up to 100,000 EECU-hours / month).
 * **TL;DR**: In 2022, Google changed their Terms of Service for GEE, defining commercial vs. non-commercial uses, with commercial uses being those for which Google should be paid for GEE use.
 
-## GEE non-commercial quota limits (*as of 27 April 2026*)
+## 5. GEE non-commercial quota limits (*as of 27 April 2026*)
 [*source*](https://developers.google.com/earth-engine/guides/noncommercial_tiers): Google
 
 **Table 1.** GEE non-commercial EECU tier limits (*monthly*)
