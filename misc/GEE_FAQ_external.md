@@ -1,12 +1,17 @@
 # Frequently Asked Questions regarding Google Earth Engine (GEE)
 *last updated: 01.05.2026*
 
-## Document layout
+<details>
+<summary>Overview</summary>
+
 1. [Disclaimer](https://github.com/BzGEO/GEE_resources/blob/main/misc/GEE_FAQ_external.md#1-disclaimer)
 2. [Objectives](https://github.com/BzGEO/GEE_resources/blob/main/misc/GEE_FAQ_external.md#2-objectives)
 3. [Questions](https://github.com/BzGEO/GEE_resources/blob/main/misc/GEE_FAQ_external.md#3-questions)
 4. [GEE terms of service milestones](https://github.com/BzGEO/GEE_resources/blob/main/misc/GEE_FAQ_external.md#4-gee-terms-of-service-milestones)
 5. [GEE non-commercial quota limits](https://github.com/BzGEO/GEE_resources/blob/main/misc/GEE_FAQ_external.md#5-gee-non-commercial-quota-limits-as-of-27-april-2026)
+
+</details>
+
 
 ## 1. Disclaimer
 
@@ -14,6 +19,7 @@
 > *The perspectives expressed here **do not** represent those of Google or my employer.*
 
 ## 2. Objectives
+
 This document is intended to provide the general public - and particular novice users of Google Earth Engine - with general information about GEE, as well as its potential relationships with desktop Geographic Information Systems (GIS) software programs like ArcGIS or QGIS.
 
 **Scenario:** You are a GIS user trying to decide how and when to choose between GEE and ArcGIS or QGIS.
