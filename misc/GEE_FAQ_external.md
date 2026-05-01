@@ -9,7 +9,9 @@
 5. [GEE non-commercial quota limits](https://github.com/BzGEO/GEE_resources/blob/main/misc/GEE_FAQ_external.md#5-gee-non-commercial-quota-limits-as-of-27-april-2026)
 
 ## 1. Disclaimer
-*The perspectives expressed here **do not** represent those of Google or my employer.*
+
+> [!IMPORTANT]
+> *The perspectives expressed here **do not** represent those of Google or my employer.*
 
 ## 2. Objectives
 This document is intended to provide the general public - and particular novice users of Google Earth Engine - with general information about GEE, as well as its potential relationships with desktop Geographic Information Systems (GIS) software programs like ArcGIS or QGIS.
