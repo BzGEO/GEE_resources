@@ -1,5 +1,5 @@
 # Frequently Asked Questions regarding Google Earth Engine (GEE)
-*last updated: 01.05.2026*
+*last updated: 02.05.2026*
 
 <details>
 <summary>Overview</summary>
@@ -55,6 +55,8 @@ This document is intended to provide the general public - and particular novice 
   * **Scenario:** You need to do **zonal statistical analysis** on multiple satellite images (e.g., Landsat, Sentinel-1, Sentinel-2, Sentinel-3, MODIS, VIIRS), and you don't want to download the data ➡️ Use GEE
   * **Scenario:** You need to do **zonal statistical analysis** on a very large (e.g., continental) scale ➡️ Use GEE
   * **Scenario:** You want to **generate a nice map** and customize the layout ➡️ Use ArcGIS or QGIS
+
+* **TO DO:** Schematic of common use of GEE in conjunction w/ ArcGIS or QGIS
 
 * **How does GEE compare to ArcGIS and QGIS in terms of their respective user bases?**
   * **GEE:** At Google's *Geo For Good* 2025 conferences (in [August](https://earthoutreachonair.withgoogle.com/events/geoforgood25-nyc), [September](https://earthoutreachonair.withgoogle.com/events/geoforgood25-singapore) 2025), it was indicated that there are **over 100,000 monthly active users** of the platform.
