@@ -1,5 +1,5 @@
 # Frequently Asked Questions regarding Google Earth Engine (GEE)
-*last updated: 02.05.2026*
+*last updated: 07.05.2026*
 
 <details>
 <summary>Overview</summary>
@@ -66,6 +66,14 @@ This document is intended to provide the general public - and particular novice 
 
 <img width="776" height="464" alt="image" src="https://github.com/user-attachments/assets/673aebac-102f-46a7-a24c-2b8601b6a4f9" />
 
+**Table 1.** Comparison of user bases for GEE, ArcGIS Pro, QGIS (*based on recent data*)
+
+| Software | Type | Monthly active users |
+| --- | --- | --- |
+| GEE | Web-based | 100,000 |
+| ArcGIS Pro | Desktop-based | 1,000,000 |
+| QGIS | Desktop-based | 21,903,891 |
+
 * **Is it true that Google is *now* charging for GEE use?**
   * GEE launched in Dec. 2010 at the UNFCCC Conference of the Parties in Cancun, Mexico. It was not until June 2022, however, that Google announced - via a [Google Blog post](https://blog.google/products-and-platforms/products/earth/introducing-earth-engine-for-governments-and-businesses/) - GEE [*Terms of Service*](https://earthengine.google.com/noncommercial/) which established various categories of use, "*So starting today, we’re making Google Earth Engine available to businesses and governments worldwide as an enterprise-grade service through Google Cloud.*"
   * Those categories can largely be distinguished between commercial and non-commercial uses. For details on each category (shown in the screenshot below), see: https://earthengine.google.com/noncommercial/.
@@ -94,10 +102,11 @@ This document is intended to provide the general public - and particular novice 
 ## 5. GEE non-commercial quota limits (*as of 27 April 2026*)
 [*source*](https://developers.google.com/earth-engine/guides/noncommercial_tiers): Google
 
-**Table 1.** GEE non-commercial EECU tier limits (*monthly*)
+**Table 2.** GEE non-commercial EECU tier limits (*monthly*)
 
-| No. | Tier | EECU-hour limits | EECU-second limits | Approx. value (US) |
+| No. | Tier | EECU-second limits | EECU-hour limits | Approx. value (US) |
 | --- | --- | --- | --- | --- |
-| 1 | **Community** | 150 | 540,000  | $60 |
-| 2 | **Contributor** | 1,000 | 3,600,000 | $400 |
-| 3 | **Partner** | 100,000 | 360,000,000 | $40,000 |
+| 1 | **Community** | 540,000 | 150  | $60 |
+| 2 | **Contributor** | 3,600,000 | 1,000 | $400 |
+| 3 | **Partner** | 360,000,000 | 100,000 | $40,000 |
+
