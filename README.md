@@ -37,7 +37,9 @@
 
 ## Tutorials
 
-**Cloud project registration**
+> [!IMPORTANT]
+> **HOW** can I register a Google Cloud project for GEE?
+
 1. GEE cloud project registration: [doc](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/gee_cloud_project_registration.md) or [slides](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/gee_2_accounts_cloud_projects_2025-07.pdf) or 🎥 [walk-through](https://bit.ly/project_reg_gee) (*last updated: July 2025*).
 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/gee_cloud_project_registration_small.png)
@@ -46,7 +48,8 @@
 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/gee_cloud_project_registration_esp_small.PNG)
 
-**Other tutorials**
+> [!IMPORTANT]
+> **WHERE** can I find other GEE tutorials?
 
 3. ***Community Tutorials*** (hosted by Google): https://developers.google.com/earth-engine/tutorials/community/explore.
       * GEE **JavaScript** Code Editor API tutorials: https://developers.google.com/earth-engine/tutorials/community/explore#javascript_code_editor_api_tutorials
