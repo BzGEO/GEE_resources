@@ -29,6 +29,9 @@
 > **WHERE** can I access data for viewing / analyzing / processing in GEE?
 
 1. See the official GEE **Data Catalog** (*maintained by Google*): https://developers.google.com/earth-engine/datasets.
+    * Harmonized Landsat Sentinel-2 (HLS): Landsat collection: https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSL30_v002
+    * Harmonized Landsat Sentinel-2 (HLS): Sentinel-2 collection: https://developers.google.com/earth-engine/datasets/catalog/NASA_HLS_HLSS30_v002
+
 2. See the **Community Data Catalog** (*maintained by the community*): https://gee-community-catalog.org.
 
 
