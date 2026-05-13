@@ -27,17 +27,17 @@
 
 1. GEE cloud project registration: [doc](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/gee_cloud_project_registration.md) or [slides](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/gee_2_accounts_cloud_projects_2025-07.pdf) or 🎥 [walk-through](https://bit.ly/project_reg_gee) (*last updated: July 2025*).
 
-![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/gee_cloud_project_registration.png)
+![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/gee_cloud_project_registration_small.png)
 
 2. Registro de proyectos de Google Cloud para GEE: [diapositivas](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/gee_2b_cuentas_google_cloud_2025-08.pdf) o 🎥  [vídeo explicativo](https://bit.ly/gee_registro_proyectos) (*última actualización: agosto 2025*).
 
-![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/gee_cloud_project_registration_esp.PNG)
+![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/gee_cloud_project_registration_esp_small.PNG)
 
 ## Other resources
 
 1. GEE overview (short) [presentation](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/gee_1_overview_short_2025-07.pdf)
 
-![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/gee_overview.png)
+![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/gee_overview_small.png)
 
 ## Contact information
 
