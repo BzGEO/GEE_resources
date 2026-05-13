@@ -61,9 +61,28 @@
 
 ## Other resources
 
-1. GEE overview (short) [presentation](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/gee_1_overview_short_2025-07.pdf)
+> [!IMPORTANT]
+> **WHERE** can I submit questions about GEE or interact with other GEE users? See / join the [GEE Developers Google Group](https://groups.google.com/g/google-earth-engine-developers).
+
+> [!IMPORTANT]
+> **WHERE** can I find open materials about GEE?
+
+1. The **Cloud-Based Remote Sensing with Google Earth Engine: Fundamentals and Applications** book: https://www.eefabook.org.
+      * Accompanying GEE repo: https://bit.ly/gee_repo_eefa_book.
+
+> [!IMPORTANT]
+> **WHERE** can I find an overview of GEE?
+
+1. Here is the GEE overview [presentation](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/gee_1_overview_short_2025-07.pdf), shown at the [NASA EarthData thermal and hyperspectral webinar](https://www.earthdata.nasa.gov/events/fundamentals-use-hyperspectral-thermal-nasa-earth-observations) in July 2025.
 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/gee_overview_small.png)
+
+> [!IMPORTANT]
+> **WHERE** can I find videos about GEE? See: https://www.youtube.com/googleearth/videos.
+
+> [!IMPORTANT]
+> **WHERE** can I find information about GEE's terms of service? See the following [document](https://github.com/BzGEO/GEE_resources/blob/main/misc/GEE_FAQ_external.md) in this repo.
+
 
 ## Contact information
 
