@@ -23,6 +23,15 @@
 
 ![](https://github.com/BzGEO/GEE_resources/blob/main/_graphics/gee_add_pace_oci_repo.png)
 
+## Data resources
+
+> [!IMPORTANT]
+> **WHERE** can I access data for viewing / analyzing / processing in GEE?
+
+1. See the official GEE **Data Catalog** (*maintained by Google*): https://developers.google.com/earth-engine/datasets.
+2. See the **Community Data Catalog** (*maintained by the community*): https://gee-community-catalog.org.
+
+
 ## Tutorials
 
 1. GEE cloud project registration: [doc](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/gee_cloud_project_registration.md) or [slides](https://github.com/BzGEO/GEE_resources/blob/main/tutorials/gee_2_accounts_cloud_projects_2025-07.pdf) or 🎥 [walk-through](https://bit.ly/project_reg_gee) (*last updated: July 2025*).
