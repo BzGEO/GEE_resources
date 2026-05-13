@@ -34,6 +34,10 @@
 
 2. See the **Community Data Catalog** (*maintained by the community*): https://gee-community-catalog.org.
 
+## Machine Learning / Artificial Intelligence with GEE
+
+> [!IMPORTANT]
+> **HOW** can I use GEE for various machine learning processes? See the various GEE subsections in the following [GeoAI Compendium](https://github.com/BzGEO/GeoAI_compendium).
 
 ## Tutorials
 
